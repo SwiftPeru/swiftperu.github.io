@@ -12,8 +12,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     Swift Peru
-  header_text_feature_image:
+   Swift Peru
+  #header_text_feature_image: "img/swiftbanner.jpeg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>
 

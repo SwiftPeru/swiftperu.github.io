@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swift Peru</title>
-    <atom:link href="http://swiftperu.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://swiftperu.com/</link>
+    <atom:link href="http://swiftperu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://swiftperu.github.io/</link>
     <description>Meetings for Swift Development in Peru</description>
-    <pubDate>Fri, 19 Jun 2015 23:16:59 -0500</pubDate>
+    <pubDate>Fri, 19 Jun 2015 23:49:15 -0500</pubDate>
     
       <item>
         <title>Swift Peru Meetup 1</title>
-        <link>http://swiftperu.com/2015/06/19/Meetup-1.html</link>
-        <guid isPermaLink="true">http://swiftperu.com/2015/06/19/Meetup-1.html</guid>
+        <link>http://swiftperu.github.io/2015/06/19/Meetup-1.html</link>
+        <guid isPermaLink="true">http://swiftperu.github.io/2015/06/19/Meetup-1.html</guid>
         <description>&lt;ul&gt;
-  &lt;li&gt;Location: Santex (Barranco, Lima, Peru)&lt;/li&gt;
+  &lt;li&gt;Date: June 19, 2015 @ 4 PM&lt;/li&gt;
+  &lt;li&gt;Location: Santex (Jiron Colina 107, Barranco, Lima)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;outline&quot;&gt;Outline&lt;/h2&gt;
+&lt;h1 id=&quot;outline&quot;&gt;Outline&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Swift Backend Development (with demo)&lt;/li&gt;
@@ -24,22 +25,22 @@
   &lt;li&gt;Open source project ideas (open discussion)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;swift-backend-development&quot;&gt;1. Swift Backend Development&lt;/h3&gt;
+&lt;h2 id=&quot;swift-backend-development&quot;&gt;1. Swift Backend Development&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Framework: &lt;a href=&quot;https://github.com/colemancda/NetworkObjects&quot;&gt;NetworkObjects&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Example: &lt;a href=&quot;https://github.com/colemancda/Pedido&quot;&gt;Pedido&lt;/a&gt; (Proof of concept, WIP)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;new-features-in-swift-20&quot;&gt;2. New Features in Swift 2.0&lt;/h3&gt;
+&lt;h2 id=&quot;new-features-in-swift-20&quot;&gt;2. New Features in Swift 2.0&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html&quot;&gt;func myMethod() throws&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://ericasadun.com/2015/06/18/swift-asynchronous-error-handling/&quot;&gt;New &lt;code&gt;ErrorType&lt;/code&gt; with Completion Handlers?&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;cross-platform-swift--objective-c&quot;&gt;3. Cross Platform Swift / Objective-C&lt;/h3&gt;
+&lt;h2 id=&quot;cross-platform-swift--objective-c&quot;&gt;3. Cross Platform Swift / Objective-C&lt;/h2&gt;
 
-&lt;h4 id=&quot;objective-c&quot;&gt;Objective-C&lt;/h4&gt;
+&lt;h3 id=&quot;objective-c&quot;&gt;Objective-C&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;GNUStep&lt;/li&gt;
@@ -48,7 +49,7 @@
   &lt;li&gt;Apportable (Swift coming soon)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;swift&quot;&gt;Swift&lt;/h4&gt;
+&lt;h3 id=&quot;swift&quot;&gt;Swift&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Tengu (coming soon)&lt;/li&gt;
@@ -56,7 +57,7 @@
   &lt;li&gt;Silver Compiler&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;open-source-project-ideas&quot;&gt;4. Open Source Project Ideas&lt;/h3&gt;
+&lt;h2 id=&quot;open-source-project-ideas&quot;&gt;4. Open Source Project Ideas&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Pure Swift ORM (like Core Data)&lt;/li&gt;
