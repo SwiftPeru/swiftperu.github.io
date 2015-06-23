@@ -5,8 +5,14 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+We are a group of people __passionate__ about iOS / OS development. We meet and have open discussions about Swift and Objective C related topics. We learn through each others experience. We love open source.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+We have tech talks, workshops, hack-a-thons, beer and more. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Identified ? [Join us](http://)
+
+- Please no Recruiters
+- Please no Technical co-founder searches
+- Please no Non-developers
+
+If you are interested in sponsoring or posting a job please [contact the organizer](http://).
